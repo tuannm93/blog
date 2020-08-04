@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "The blog for any things",
+  "main": "index.js",
+  "repository": "https://github.com/tuannm93/blog",
+  "author": "Nguyen Manh Tuan",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "child_process": "^1.0.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^3.1.0",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}
